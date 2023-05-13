@@ -1,4 +1,4 @@
-# [<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">] Hi, I’m Jeshua
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi, I’m Jeshua
 ----------------------------------------------------------
 ### I'm a Data Scientist enthusiast, currently persuing a master's degree in Data Science.
 
