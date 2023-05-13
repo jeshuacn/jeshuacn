@@ -8,10 +8,12 @@
  
 [Linkedin]: https://www.linkedin.com/in/jeshua-cespedes/
 [instagram]: https://www.instagram.com/jeshuacespedes/
+[kaggle]: https://www.kaggle.com/jeshuacn
 
 ## 📫 Connect With Me:
 [<img align="left" alt="codeSTACKr | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][Linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="codeSTACKr | Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg" />][kaggle]
 
 <!---
 jeshuacn/jeshuacn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
