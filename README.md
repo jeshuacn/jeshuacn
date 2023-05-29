@@ -3,18 +3,19 @@
 ### I'm a Data Scientist enthusiast, currently persuing a master's degree in Data Science.
 
 - 👀 I’m interested in Data Science, AI/ML and Analytics.
-- 🌱 I’m currently learning Data Science
+- 🧠 I’m currently persuing my master's degree in Data Science
 - 💞️ I’m looking to collaborate on anything cool/innovative/challening!
  
 [Linkedin]: https://www.linkedin.com/in/jeshua-cespedes/
 [instagram]: https://www.instagram.com/jeshuacespedes/
 [kaggle]: https://www.kaggle.com/jeshuacn
+[twitter]:https://twitter.com/JeshuaCespedes
 
 ## 📫 Connect With Me:
 [<img align="left" alt="codeSTACKr | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][Linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="codeSTACKr | Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg" />][kaggle]
-
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg" />][twitter]
 <!---
 jeshuacn/jeshuacn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
